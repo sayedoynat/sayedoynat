@@ -2,7 +2,7 @@
 <h2 align="center">👋 Hello! I'm Elsayed Mohamed.</h2>
 <br> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
 
-[![LinkedIn badge](https://img.shields.io/badge/Elsayed_Mohamed-grey?style=flat&logo=linkedin)](https://www.linkedin.com/in/sayedoynat/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elsayed_Mohamed-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sayedoynat/)
 [![email badge](https://img.shields.io/badge/Email-Contact-red?style=flat\&logo=gmail\&logoColor=white)](mailto:sayed.oynat@gmail.com)
 
 </div>
