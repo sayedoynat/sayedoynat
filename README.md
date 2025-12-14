@@ -2,15 +2,7 @@
 <h2 align="center">👋 Hello! I'm Elsayed Mohamed.</h2>
 <br> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
 
-<details>
-<p><strong> <summary> Busy coding & Vibing to : </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <br>
-
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=elsayedmohamed\&style=flat\&color=orange\&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/Elsayed_Mohamed-grey?style=flat\&logo=telegram)](https://t.me/spxd007)
+[![LinkedIn badge](https://img.shields.io/badge/Elsayed_Mohamed-grey?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
 [![email badge](https://img.shields.io/badge/Email-Contact-red?style=flat\&logo=gmail\&logoColor=white)](mailto:sayed.oynat@gmail.com)
 
 </div>
