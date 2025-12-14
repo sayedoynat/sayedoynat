@@ -32,14 +32,11 @@ I’m passionate about understanding **how web applications work, how vulnerabil
 ![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat\&logo=javascript\&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat\&logo=GNU%20Bash\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat\&logo=git\&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat\&logo=visual-studio-code\&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-57A143?style=flat\&logo=neovim\&logoColor=white)
 
-```dart
 // tools_I_use organized
 
 class About extends Me { 
