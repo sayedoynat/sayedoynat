@@ -1,6 +1,6 @@
 <div align="center" width="50">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Hackers" width="60%"/> <br> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
+<h2 align="center">👋 Hello! I'm Elsayed Mohamed.</h2>
+<br> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
 
 <details>
 <p><strong> <summary> Busy coding & Vibing to : </summary> </strong></p>
@@ -11,7 +11,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=elsayedmohamed\&style=flat\&color=orange\&label=PROFILE+VIEWS)
 [![telegram badge](https://img.shields.io/badge/Elsayed_Mohamed-grey?style=flat\&logo=telegram)](https://t.me/spxd007)
-[![email badge](https://img.shields.io/badge/Email-Contact-red?style=flat\&logo=gmail\&logoColor=white)](mailto:your_email@gmail.com)
+[![email badge](https://img.shields.io/badge/Email-Contact-red?style=flat\&logo=gmail\&logoColor=white)](mailto:sayed.oynat@gmail.com)
 
 </div>
 
@@ -33,7 +33,6 @@ I’m passionate about understanding **how web applications work, how vulnerabil
 ![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat\&logo=javascript\&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat\&logo=GNU%20Bash\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat\&logo=git\&logoColor=white)
@@ -45,11 +44,10 @@ I’m passionate about understanding **how web applications work, how vulnerabil
 class About extends Me { 
   const myTools = {  
     "ProgrammingLanguages" : { "C", "C++", "JavaScript" },
-    "Web" : { "HTML", "CSS" },
+    "Web" : { "HTML", },
     "Scripting" : { "Bash" },
-    "SecuritySkills" : { "Web Penetration Testing", "OWASP Top 10", "Reconnaissance" },
     "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "VS Code", "Neovim" }
+    "OtherTools" : { "Git", "VS Code" }
   };
 };
 ```
